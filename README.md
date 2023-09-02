@@ -22,11 +22,12 @@ My background encompasses biotechnology, healthcare, data analytics and business
 Scheduled to graduate in May 2024, I am actively seeking opportunities to apply my skills and knowledge, contributing to meaningful change within the healthcare industry. If you're searching for a passionate innovator dedicated to improving patient outcomes and reimagining healthcare, let's connect. Feel free to reach out to me via email at rgovind2@andrew.cmu.edu !
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+All the things - obviously. But in specific: 
 
-- List item #1
-- List item #2
-- List item #3
+- Data Visualization Techniques: Learn how to effectively visualize data using various tools and techniques such as charts, graphs, and interactive dashboards to make complex information more accessible and understandable
+- Story Telling FrameWorks: Develop the ability to structure/craft and present compelling data-driven narratives using specific frameworks and methodologies for different audience groups depending on their level of technical expertise
+- Data Visualization Critique and Iteration: Hone my ability to critically evaluate data visualizations, identifying strengths and weaknesses in the design and presentation of data. I also want to seek feedback and re-iterate the work to improve effectiveness
+- Visual Perception and Emotional Appeal: Study the principles of visual perception to create data visualizations that are more intuitive and easier to understand. Also, to learn how to use emotional appeal in the data stories, to make it more relatable and memorable for the audience
 
 # Portfolio
 
