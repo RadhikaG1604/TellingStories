@@ -30,20 +30,20 @@ All the things - obviously. But in specific:
 
 # Portfolio
 
-## Assignment 1: [Data_Visualization_1](https://radhikag1604.github.io/TellingStories/Data_Visualization_1.html)
+## Assignment 1: [Data_Visualization_1](https://radhikag1604.github.io/Telling_Stories_With_Data/Data_Visualization_1.html)
 *A high level description of my Data Visualization Assignment will go here.*
 
-## Assignment 3&4: [Critique by Design](https://radhikag1604.github.io/TellingStories/critique-by-design.html)
+## Assignment 3&4: [Critique by Design](https://radhikag1604.github.io/Telling_Stories_With_Data/critique-by-design.html)
 *A high level description of my design critique assignment will go here.* 
 
 ## Final Project
 *A high level description of my final project will go here.*
 
-### Part I: [Part I]((https://radhikag1604.github.io/TellingStories/final-project-part-one.html))
+### Part I: [Part I]((https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-one.html))
 
-### Part II: [Part II]((https://radhikag1604.github.io/TellingStories/final-project-part-two.html))
+### Part II: [Part II]((https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-two.html))
 
-### Part III: [Part III]((https://radhikag1604.github.io/TellingStories/final-project-part-three.html))
+### Part III: [Part III]((https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-three.html))
 
 Click [Here](https://github.com/RadhikaG1604/TellingStories) to access my repository.
 
