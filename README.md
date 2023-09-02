@@ -39,11 +39,11 @@ All the things - obviously. But in specific:
 ## Final Project
 *A high level description of my final project will go here.*
 
-### Part I: [Part I]((https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-one.html))
+### Part I: [Part I](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-one.html)
 
-### Part II: [Part II]((https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-two.html))
+### Part II: [Part II](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-one.html)
 
-### Part III: [Part III]((https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-three.html))
+### Part III: [Part III](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-one.html)
 
 Click [Here](https://github.com/RadhikaG1604/TellingStories) to access my repository.
 
