@@ -1,6 +1,5 @@
-## Hi!
+# Hi!
 - Catch a glimpse of my work @ https://radhikag1604.github.io/TellingStories/
-- This repository:https://github.com/RadhikaG1604/TellingStories
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
@@ -39,6 +38,8 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ---
+Click https://github.com/RadhikaG1604/TellingStories to access my repository.
+
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
 ### Changing text
