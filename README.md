@@ -13,7 +13,7 @@ Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
 
 - Self-Driven, Quick Learner, Passionate Data Analyst with a curious mind who loves to solve real-world challenges in the healthcare industry.
 
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](www.linkedin.com/in/radhika-govindarajan)
+[![Ask Me Anything !](www.linkedin.com/in/radhika-govindarajan)
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
