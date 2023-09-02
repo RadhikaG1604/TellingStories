@@ -1,4 +1,5 @@
-# Portfolio
+# Hi I'm Radhika Govindarajan
+
 Welcome to my public portfolio for "Telling Stories with Data" at CMU! This space is where I showcase my work, and I'm excited to share it with you.
 
 As you explore my projects, you will find engaging and informative data-driven visualizations that highlight my passion for storytelling with data. If you're looking for someone who can transform data into compelling narratives, you've come to the right place. 
@@ -7,9 +8,7 @@ Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
 
 # About me
 
-<img src="IMG_5075.jpg" width="300"/>
-
-# Hi I'm Radhika Govindarajan
+<img src="MyPicture.jpg" width="300"/>
 
 *Self-Driven, Quick Learner, Passionate Data Analyst with a curious mind who loves to solve real-world challenges in the healthcare industry.*
 
