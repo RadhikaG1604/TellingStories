@@ -4,13 +4,13 @@ Welcome to my public portfolio for "Telling Stories with Data" at CMU! This spac
 
 As you explore my projects, you will find engaging and informative data-driven visualizations that highlight my passion for storytelling with data. If you're looking for someone who can transform data into compelling narratives, you've come to the right place. 
 
-> Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
+Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
 
 # About me
 
 <img src="MyPicture.jpg" width="200"/>
 
-> Self-Driven, Quick Learner, Passionate Data Analyst with a curious mind who loves to solve real-world challenges in the healthcare industry
+> Self-Driven, Quick Learner, Passionate Data Analyst with a curious mind, I love to solve real-world challenges in the healthcare industry
 
 Hailing from a small sub-urban town in India, I vividly remember witnessing the delivery of polio immunization campaigns to address this huge disease. I was always intrigued by how it was able to target a billion people and how the disease was completely eradicated in 2010s. The quest to answer these questions led me tocome across two areas of science in my adolescence that piqued my interest - Healthcare and Information Technology. Since then, I have made careful choices in my academic pursuits and career to develop technical expertise in both these areas.
 
@@ -30,7 +30,7 @@ All the things - obviously. But in specific:
 
 # Portfolio
 
-## Assignment: [Data_Visualization_1](https://radhikag1604.github.io/TellingStories/Data_Visualization_1.html)
+## Assignment 1: [Data_Visualization_1](https://radhikag1604.github.io/TellingStories/Data_Visualization_1.html)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
