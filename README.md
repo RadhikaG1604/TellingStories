@@ -1,4 +1,4 @@
-# Hi I'm Radhika Govindarajan :wave: :smiley:
+# Hi I'm Radhika Govindarajan :wave::smiley:
 
 Welcome to my public portfolio for "Telling Stories with Data" at CMU! This space is where I showcase my work, and I'm excited to share it with you.
 
