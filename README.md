@@ -30,20 +30,20 @@ All the things - obviously. But in specific:
 
 # Portfolio
 
-## Assignment 1: [Data_Visualization_1](https://github.com/RadhikaG1604/Telling_Stories_With_Data/blob/main/Data_Visualization_1.md)
+## Assignment 1: [Data_Visualization_1](https://radhikag1604.github.io/Telling_Stories_With_Data/Data_Visualization_1.html)
 *A high level description of my Data Visualization Assignment will go here.*
 
-## Assignment 3&4: [Critique by Design](https://github.com/RadhikaG1604/Telling_Stories_With_Data/blob/main/critique-by-design.md)
+## Assignment 3&4: [Critique by Design](https://radhikag1604.github.io/Telling_Stories_With_Data/critique-by-design.html)
 *A high level description of my design critique assignment will go here.* 
 
 ## Final Project
 *A high level description of my final project will go here.*
 
-### Part I: [Part I](https://github.com/RadhikaG1604/Telling_Stories_With_Data/blob/main/final-project-part-one.md)
+### Part I: [Part I](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-one.html)
 
-### Part II: [Part II](https://github.com/RadhikaG1604/Telling_Stories_With_Data/blob/main/final-project-part-two.md)
+### Part II: [Part II](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-two.html)
 
-### Part III: [Part III](https://github.com/RadhikaG1604/Telling_Stories_With_Data/blob/main/final-project-part-three.md)
+### Part III: [Part III](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-three.html)
 
 Click [Here](https://github.com/RadhikaG1604/TellingStories) to access my repository.
 
