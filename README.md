@@ -1,10 +1,10 @@
-# Hi I'm Radhika Govindarajan
+# Hi I'm Radhika Govindarajan :wave: :smiley:
 
 Welcome to my public portfolio for "Telling Stories with Data" at CMU! This space is where I showcase my work, and I'm excited to share it with you.
 
 As you explore my projects, you will find engaging and informative data-driven visualizations that highlight my passion for storytelling with data. If you're looking for someone who can transform data into compelling narratives, you've come to the right place. 
 
-Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
+Catch a glimpse of my work @ "https://radhikag1604.github.io/TellingStories/"
 
 # About me
 
@@ -37,7 +37,7 @@ All the things - obviously. But in specific:
 *A high level description of my design critique assignment will go here.* 
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project.
+*A high level description of my final project will go here.*
 
 ### Part I: [Part I]((https://radhikag1604.github.io/TellingStories/final-project-part-one.html))
 
@@ -45,11 +45,11 @@ Here it might be helpful to include a high-level description of your final proje
 
 ### Part III: [Part III]((https://radhikag1604.github.io/TellingStories/final-project-part-three.html))
 
-Click https://github.com/RadhikaG1604/TellingStories to access my repository.
+Click "https://github.com/RadhikaG1604/TellingStories" to access my repository.
 
 ---
 
-### Setting up a separate page
+<!-- ### Setting up a separate page
 
 So here's the code you'll need to add to your own site to create a second page. 
 
@@ -60,10 +60,10 @@ So here's the code you'll need to add to your own site to create a second page.
 
 Any of those formats will work. Here's some examples of working links: 
 
-`[title](dataviz)` = [title](dataviz)  
+`[title](dataviz)` = [title](dataviz) 
 `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
 `[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
 
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
 
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/) --> 
