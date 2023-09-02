@@ -1,10 +1,10 @@
-# Hi I'm Radhika Govindarajan :wave::smiley:
+# Hi I'm Radhika Govindarajan 🙂👋
 
 Welcome to my public portfolio for "Telling Stories with Data" at CMU! This space is where I showcase my work, and I'm excited to share it with you.
 
 As you explore my projects, you will find engaging and informative data-driven visualizations that highlight my passion for storytelling with data. If you're looking for someone who can transform data into compelling narratives, you've come to the right place. 
 
-Catch a glimpse of my work @ "https://radhikag1604.github.io/Telling_Stories_With_Data/"
+Catch a glimpse of my work @[My Portfolio](https://radhikag1604.github.io/Telling_Stories_With_Data/)
 
 # About me
 
@@ -45,7 +45,7 @@ All the things - obviously. But in specific:
 
 ### Part III: [Part III]((https://radhikag1604.github.io/TellingStories/final-project-part-three.html))
 
-Click "https://github.com/RadhikaG1604/TellingStories" to access my repository.
+Click [Here](https://github.com/RadhikaG1604/TellingStories) to access my repository.
 
 ---
 
