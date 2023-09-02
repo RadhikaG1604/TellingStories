@@ -11,7 +11,7 @@ Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
 
 # Hi I'm Radhika Govindarajan
 
-Self-Driven, Quick Learner, Passionate Data Analyst with a curious mind who loves to solve real-world challenges in the healthcare industry.
+*Self-Driven, Quick Learner, Passionate Data Analyst with a curious mind who loves to solve real-world challenges in the healthcare industry.*
 
 Hailing from a small sub-urban town in India, I vividly remember witnessing the delivery of polio immunization campaigns to address this huge disease. I was always intrigued by how it was able to target a billion people and how the disease was completely eradicated in 2010s. The quest to answer these questions led me tocome across two areas of science in my adolescence that piqued my interest - Healthcare and Information Technology. Since then, I have made careful choices in my academic pursuits and career to develop technical expertise in both these areas.
 
