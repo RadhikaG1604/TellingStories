@@ -4,7 +4,7 @@ Welcome to my public portfolio for "Telling Stories with Data" at CMU! This spac
 
 As you explore my projects, you will find engaging and informative data-driven visualizations that highlight my passion for storytelling with data. If you're looking for someone who can transform data into compelling narratives, you've come to the right place. 
 
-Catch a glimpse of my work @ "https://radhikag1604.github.io/TellingStories/"
+Catch a glimpse of my work @ "https://radhikag1604.github.io/Telling_Stories_With_Data/"
 
 # About me
 
@@ -36,7 +36,7 @@ All the things - obviously. But in specific:
 ## Assignment 3&4: [Critique by Design](https://radhikag1604.github.io/TellingStories/critique-by-design.html)
 *A high level description of my design critique assignment will go here.* 
 
-## Final project
+## Final Project
 *A high level description of my final project will go here.*
 
 ### Part I: [Part I]((https://radhikag1604.github.io/TellingStories/final-project-part-one.html))
