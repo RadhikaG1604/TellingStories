@@ -1,4 +1,4 @@
-# Hi! (H1)
+# Hi! 
 - Catch a glimpse of my work @ https://radhikag1604.github.io/TellingStories/
 
 # Portfolio
