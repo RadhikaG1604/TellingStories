@@ -10,7 +10,7 @@ Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
 
 <img src="MyPicture.jpg" width="200"/>
 
-> Self-Driven, Quick Learner, Passionate Data Analyst with a curious mind, I love to solve real-world challenges in the healthcare industry
+> Self-Driven, Quick Learner, Passionate Data Analyst with a curious mind trying to solve real-world challenges in healthcare.
 
 Hailing from a small sub-urban town in India, I vividly remember witnessing the delivery of polio immunization campaigns to address this huge disease. I was always intrigued by how it was able to target a billion people and how the disease was completely eradicated in 2010s. The quest to answer these questions led me tocome across two areas of science in my adolescence that piqued my interest - Healthcare and Information Technology. Since then, I have made careful choices in my academic pursuits and career to develop technical expertise in both these areas.
 
@@ -37,13 +37,17 @@ All the things - obviously. But in specific:
 *A high level description of my design critique assignment will go here.* 
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I]((https://radhikag1604.github.io/TellingStories/final-project-part-one.html))
-[Part II]((https://radhikag1604.github.io/TellingStories/final-project-part-two.html))
-[Part III]((https://radhikag1604.github.io/TellingStories/final-project-part-three.html))
+Here it might be helpful to include a high-level description of your final project.
+
+### Part I: [Part I]((https://radhikag1604.github.io/TellingStories/final-project-part-one.html))
+
+### Part II: [Part II]((https://radhikag1604.github.io/TellingStories/final-project-part-two.html))
+
+### Part III: [Part III]((https://radhikag1604.github.io/TellingStories/final-project-part-three.html))
+
+Click https://github.com/RadhikaG1604/TellingStories to access my repository.
 
 ---
-Click https://github.com/RadhikaG1604/TellingStories to access my repository.
 
 ### Setting up a separate page
 
