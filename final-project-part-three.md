@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://radhikag1604.github.io/Telling_Stories_With_Data/) | [Data_Visualization_1](https://radhikag1604.github.io/TellingStories/Data_Visualization_1.html) | [Critique by Design](https://radhikag1604.github.io/TellingStories/critique-by-design.html) | [Final Project Part I](https://radhikag1604.github.io/TellingStories/final-project-part-one.html) | [Final Project Part II](https://radhikag1604.github.io/TellingStories/final-project-part-two.html) | [Final Project Part III](https://radhikag1604.github.io/TellingStories/final-project-part-three.html) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
