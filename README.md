@@ -1,5 +1,3 @@
-# Hi! 
-
 # Portfolio
 Welcome to my public portfolio for "Telling Stories with Data" at CMU! This space is where I showcase my work, and I'm excited to share it with you.
 
@@ -9,17 +7,16 @@ Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
 
 # About me
 
-<img src="IMG_5075.jpg" width="200"/>
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+<img src="IMG_5075.jpg" width="400"/>
+
+# Hi I'm Radhika Govindarajan
+
+- Self-Driven, Quick Learner, Passionate Data Analyst with a curious mind who loves to solve real-world challenges in the healthcare industry.
+
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
 
 - List item #1
 - List item #2
