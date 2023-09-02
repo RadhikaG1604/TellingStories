@@ -3,8 +3,10 @@
 # Portfolio
 Welcome to my public portfolio for "Telling Stories with Data" at CMU! This space is where I showcase my work, and I'm excited to share it with you.
 
-As you explore my projects, you will find engaging and informative data-driven narratives that highlight my passion for storytelling with data. If you're looking 
-for someone who can transform data into compelling narratives, you've come to the right place. Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
+As you explore my projects, you will find engaging and informative data-driven visualizations that highlight my passion for storytelling with data. If you're looking 
+for someone who can transform data into compelling narratives, you've come to the right place. 
+
+Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
 
 # About me
 
