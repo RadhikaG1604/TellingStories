@@ -7,7 +7,7 @@ Catch a glimpse of my work @https://radhikag1604.github.io/TellingStories/
 
 # About me
 
-<img src="IMG_5075.jpg" width="300"/>
+<img src="IMG_5075.jpg" width="200"/>
 
 # Hi I'm Radhika Govindarajan
 
