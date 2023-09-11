@@ -7,3 +7,10 @@ Text here!
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14974849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
+
+
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14976319"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
