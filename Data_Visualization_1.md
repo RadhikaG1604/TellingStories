@@ -2,9 +2,11 @@
 
 # Visualizing Government Debt
 
-## 1. Embedding General Government Debt-to-GDP Ratio Chart
+## Part 1: Working with web-based visualization tools and embedding the government Debt-to-GDP data chart
 
 The following chart was created using the OECD's visualization tool, which allowed me to directly interact with their general government debt data. By filtering for the year 2022, I focused on visualizing the corresponding dataset. My aim was to spotlight the top 5 countries with the highest debt-to-GDP ratios, since it generally indicates that a country may have difficulty in paying back its debt and may have implications for its fiscal stability and economic health. To emphasize that countries with lower government debt-to-GDP ratios are managing well, I chose to depict them in grey.
+
+
 
 <iframe src="https://data.oecd.org/chart/7bdq" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bdq" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
@@ -16,11 +18,17 @@ The provided visualization comprises a grid of line charts, illustrating the Deb
 
 In the pre-pandemic period (1995-2019), each country exhibited distinct trends in their Debt-to-GDP ratios, which could be influenced by a range of factors including policy decisions, economic cycles, and various strategic choices. However, a noticeable and uniform surge in the ratio is observed in the year 2020 across all countries, directly attributed to the pandemic and its ensuing economic impact, including lockdowns and diminished revenue streams. The most noteworthy observation emerges from the data for the years 2021 and 2022 indicated by the end dot in the sparkline. Post-pandemic, there is a discernible shift in the Debt-to-GDP Ratios of these nations. This shift indicates either a declining trend or a stabilization, signifying a notable rebound from the pandemic's impact. This resilience can be attributed to a combination of factors including economic recovery following the relaxation of lockdown measures, and structural reforms undertaken by several countries, encompassing tax policies, public spending, and other fiscal strategies.
 
+
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/14974849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: Creating your own visualization
 
-Below is the visualization, 
+Featured below is a custom visualization I crafted using Flourish. Leveraging the dynamic "Bar Chart Race" template, I delved into the trends of Debt-to-GDP Ratios for those countries whose data was available in the latest financial year, 2022. This comprehensive analysis spans over two decades, offering valuable insights into the fiscal landscapes of these nations.
+
+While the animation of the bar chart provides a clear snapshot of each country's position in the ratio, the animated line chart adds a compelling dimension, allowing us to vividly observe the fluctuations in this critical metric. Upon closer examination this dynamic visualization had a fascinating revelation., it is evident that each country has witnessed its own share of peaks and valleys in the Debt-to-GDP ratio, reflecting shifts in their fiscal health. Regardless of the specific ratio values, what stands out is Japan's enduring presence at the pinnacle, boasting the highest Debt-to-GDP ratio. This is mainly due to the severe economic challenges faced by Japan during the "lost decade" which has left a significant impact till data. Moreover, the country has one of the oldest populations globally. In contrast, Chile consistently maintains the lowest ratio over the past two decades due to its track of implementing fiscal prudence.
+
+
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14976319"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
