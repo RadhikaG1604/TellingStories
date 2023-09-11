@@ -32,7 +32,7 @@ All the things - obviously. But in specific:
 # Portfolio
 
 ## Assignment 1: [Data_Visualization_1](https://radhikag1604.github.io/Telling_Stories_With_Data/Data_Visualization_1.html)
-In this Data Visulazation Assignment, I have delved into the **OECD General Government Debt Data**, by utilizing web-based visualization tools and techniques I learnt in this course to create compelling data representations. 
+In this Data Visulazation Assignment, I have delved into the **OECD General Government Debt Data**, by utilizing various web-based visualization tools and the techniques I learnt in this course to create compelling data representations. 
 
 ## Assignment 3&4: [Critique by Design](https://radhikag1604.github.io/Telling_Stories_With_Data/critique-by-design.html)
 *A high level description of my design critique assignment will go here.* 
