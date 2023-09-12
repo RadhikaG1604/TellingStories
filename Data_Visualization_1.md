@@ -33,9 +33,6 @@ While the animation of the bar chart provides a clear snapshot of each country's
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14976319"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-## Part 4: Creating Highlights Table with Tableau
-
-[Click here to view the table]('https://public.tableau.com/views/OECDGovernmentDebtData/Debt-To-GDPHighlights?:language=en-US&:display_count=n&:origin=viz_share_link')         
 
 
 
