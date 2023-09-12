@@ -46,6 +46,12 @@ In this Data Visulazation Assignment, I have delved into the **OECD General Gove
 
 ### Part III: [Part III](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-three.html)
 
+## Class Exercises
+
+### 1. [KingCountyCasesDemo](https://radhikag1604.github.io/Telling_Stories_With_Data/KingCountyCasesDemo.html)
+
+### 2. [MediaTrustVisual](https://radhikag1604.github.io/Telling_Stories_With_Data/mediatrust.html)
+
 Click [Here](https://github.com/RadhikaG1604/TellingStories) to access my repository.
 
 ---
