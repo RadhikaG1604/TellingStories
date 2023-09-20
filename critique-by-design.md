@@ -30,13 +30,13 @@ In summary, while the Kansas cluster summary dashboard provides critical data, i
 
 Below is my rating for each of the seven individual aspects in the effectiveness profile:
 
-#### Usefulness - 4
-#### Completeness - 4
-#### Perceptibility - 1
-#### Truthfulness - 3
-#### Intuitiveness - 2
-#### Aesthetics - 1
-#### Engagement - 2
+#### - Usefulness - 4
+#### - Completeness - 4
+#### - Perceptibility - 1
+#### - Truthfulness - 3
+#### - Intuitiveness - 2
+#### - Aesthetics - 1
+#### - Engagement - 2
 
 ## Step Three: Sketch out a solution
 
@@ -57,16 +57,16 @@ To put my solution to the test, I decided to seek feedback from two of my friend
 ### Interviewee 1: 
 One of my friends, who happens to be a fellow student and is also enrolled in the 'Telling Stories with Data' class, provided some valuable insights:
 
-##### Can you tell me what you think this is and describe what you interpret? 
+- ##### Can you tell me what you think this is and describe what you interpret? 
 As I presented the interpretation to her, she quickly grasped that the visualization was depicting case counts associated with different clusters. Moreover, she correctly deduced that it was a report specific to Kansas, with a notable emphasis on long-term care facilities due to their high case counts.
 
-##### Do you find anything confusing or suprising?
+- ##### Do you find anything confusing or suprising?
 However, there was a point of confusion for her. She expressed difficulty in understanding the concept of 'clusters,' indicating that this term wasn't immediately intuitive to her. After I clarified that it referred to the number of instances in each outbreak spot, she mentioned that it made much more sense.
 
-##### Who do you think is the intended audience for this visualization ?
+- ##### Who do you think is the intended audience for this visualization ?
 When asked about the intended audience for this visualization, she believed it would be beneficial for the general public of Kansas, as well as public health professionals who are keen on identifying major outbreak spots and taking precautionary measures to avoid them.
 
-##### Is there anything you would change or do differently?
+- ##### Is there anything you would change or do differently?
 Furthermore, she provided some constructive suggestions for improvement. Firstly, she proposed using a different word or phrase instead of 'cluster' to make it more user-friendly. Secondly, she recommended a change in coloring scheme, aligning it with the graph's title and giving extra prominence to the long-term care facility while keeping the rest in a subdued gray. Finally, she advised minimizing the size of the subtitle to maintain focus on the main message.
 
 These suggestions proved immensely helpful, as they contributed to a more refined and effective presentation of the core message in my visual representation.
@@ -74,13 +74,13 @@ These suggestions proved immensely helpful, as they contributed to a more refine
 ### Interviewee 2:
 I specifically wanted another interviewee to be someone who would and someone who did not take the telling stories with data class, as they would belong to the broader general audience perspective and would be able to provide insights.
 
-##### Can you tell me what you think this is and describe what you interpret?
+- ##### Can you tell me what you think this is and describe what you interpret?
 
-##### Do you find anything confusing or suprising?
+- ##### Do you find anything confusing or suprising?
 
-##### Who do you think is the intended audience for this visualization ?
+- ##### Who do you think is the intended audience for this visualization ?
 
-##### Is there anything you would change or do differently?
+- ##### Is there anything you would change or do differently?
 
 ### Insights from in-class group critique:
 
