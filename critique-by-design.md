@@ -72,21 +72,33 @@ Furthermore, she provided some constructive suggestions for improvement. Firstly
 These suggestions proved immensely helpful, as they contributed to a more refined and effective presentation of the core message in my visual representation.
 
 ### Interviewee 2:
-I specifically wanted another interviewee to be someone who would and someone who did not take the telling stories with data class, as they would belong to the broader general audience perspective and would be able to provide insights.
+For my second interview, I approached another graduate student who had also taken the 'Telling Stories with Data' class. I aimed to gather insights from a broader audience to understand how they would perceive and interpret the visualization. I asked her the following questions:
 
 - **Can you tell me what you think this is and describe what you interpret?** 
+She promptly identified that the visualization represented COVID-19 data specific to the state of Kansas. Impressively, she noted that there was a clear correlation between cluster sizes and case counts in most instances, although there were exceptions. She keenly observed that regardless of cluster size, the number of cases could vary. However, she concurred that using a different term instead of 'cluster' could make the information more informative and straightforward.
 
-- **Can you tell me what you think this is and describe what you interpret?** 
+- **Do you find anything confusing or suprising?** 
+he remarked that she found it surprising and enlightening to observe that the locations she initially thought were enclosed spaces with limited interactions from the outside actually had higher case counts. She hadn't considered that closed spaces might lead to more interactions with fewer opportunities for isolation.
 
-- **Can you tell me what you think this is and describe what you interpret?** 
+- **Who do you think is the intended audience for this visualization ?** 
+She emphasized that it would be relevant to the general public in Kansas or health department officials tasked with formulating policies regarding pandemic outbreaks.
 
-- **Can you tell me what you think this is and describe what you interpret?** 
+- **Is there anything you would change or do differently?** 
+She was overall affirmative of the visualization, except on the usage of colors - she held a similar view on colors, aiming to communicate a sense of severity or danger, which I have incorporated into my revised sketch.
 
 ### Insights from in-class group critique:
-
+I presented my redesigned visualization, displayed below, to my fellow classmates. They examined both the original visual that I aimed to improve and my final sketch. They shared a common sentiment about the original dashboard visual, finding it challenging to interpret and causing a loss of interest in the data. However, they did note that my resketch was clear in communicating the key message. In terms of the visual aspect, their suggestion was to enhance the prominence of the line by introducing a noticeable differentiation.
 
 ## Step Five: Build your solution
+
+Taking into account these insightful suggestions, I made several adjustments to my resketch. I replaced the term "cluster" with "outbreak spots" to enhance clarity. Furthermore, I opted to remove the legend and incorporated it as annotations within the visualization to actively engage the audience. In order to emphasize the importance of long-term care facilities, I highlighted them in red, providing a visual cue for their notable impact. Additionally, I heightened the visibility of cluster sizes by employing a dark dashed line, ensuring they were distinctly noticeable.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15077935"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Summary
+
+In this journey, I followed a structured framework that encompassed several crucial steps. It all began with the careful selection of the most fitting visual representation. From there, I delved into a comprehensive critique, employing the data effectiveness profile as my guide. This process paved the way for a meticulous resketching endeavor, aimed at refining the visualization to its fullest potential. Seeking feedback was the next pivotal step, allowing for further refinement and improvement.
+
+This systematic approach not only sharpened my critiquing abilities but also enabled me to present the visual and data in a more streamlined manner, minimizing unnecessary clutter. What struck me most was how this exercise transformed my perspective on visualizations. The exposure to a variety of visual representations left a lasting impact, reshaping the way I perceive and interact with them.
+
+Engaging in this feedback loop and observing others' visuals created a dynamic learning environment. It became a space where different styles and techniques were shared, fostering a collective growth and adaptation in my own visualization practices. This collaborative exchange of insights and ideas truly enriched the entire process.
