@@ -30,7 +30,13 @@ In summary, while the Kansas cluster summary dashboard provides critical data, i
 
 Below is my rating for each of the seven individual aspects in the effectiveness profile:
 
-<img src="Visual Critique.png" width="500"/>
+#### Usefulness - 4
+#### Completeness - 4
+#### Perceptibility - 1
+#### Truthfulness - 3
+#### Intuitiveness - 2
+#### Aesthetics - 1
+#### Engagement - 2
 
 ## Step Three: Sketch out a solution
 
@@ -40,11 +46,9 @@ Below is my rating for each of the seven individual aspects in the effectiveness
 ## Step Four: Test out the Solution
 
 
-
 ## Step Five: Build your solution
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15077935"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 
 
 ## Summary
