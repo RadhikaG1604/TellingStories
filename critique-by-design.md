@@ -30,13 +30,13 @@ In summary, while the Kansas cluster summary dashboard provides critical data, i
 
 Below is my rating for each of the seven individual aspects in the effectiveness profile:
 
-- #### Usefulness - 4
-- #### Completeness - 4
-- #### Perceptibility - 1
-- #### Truthfulness - 3
-- #### Intuitiveness - 2
-- #### Aesthetics - 1
-- #### Engagement - 2
+- **Usefulness -** 4
+- **Completeness -** 4
+- **Perceptibility -** 1
+- **Truthfulness -** 3
+- **Intuitiveness -** 2
+- **Aesthetics -** 1
+- **Engagement -** 2
 
 ## Step Three: Sketch out a solution
 
