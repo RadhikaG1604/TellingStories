@@ -8,7 +8,7 @@ Given my profound dedication to healthcare, I was keen on selecting a data visua
 
 Yet, what truly spurred my interest in this visualization was its evident shortfall in effectively conveying pivotal data. This realization highlighted the untapped potential that, if harnessed, could yield a substantial impact in healthcare strategy and response efforts.
 
-<img src="Kansas Cluster Summary Dashboard.png" width="500"/>
+<img src="Kansas Cluster Summary Dashboard.png" width="1000"/>
 
 
 
