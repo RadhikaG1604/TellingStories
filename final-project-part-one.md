@@ -40,11 +40,10 @@ Furthermore, I will tap into three datasets made available by the [Center for He
 
 ### Data Sources:
 1. **World Bank. (May 25, 2022). Size of the urban and rural population of the United States from 1960 to 2020 (in millions)** [Graph].In Statista. Retrieved September 25, 2023, from https://www.statista.com/statistics/985183/size-urban-rural-population-us/
-2. **Fast Facts on U.S. hospitals, 2023 | AHA. (n.d.). American Hospital Association.** https://www.aha.org/statistics/fast-facts-us-hospitals
-3. **Rural Hospital closures - Sheps Center. (2023, September 1). Sheps Center. ** https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/
-4. **Saving Rural Hospitals - Data on rural hospitals. (n.d.).** https://ruralhospitals.chqpr.org/Data1.html
+2. **Fast Facts on U.S. Hospitals, 2023 | AHA.(.n.d.). American Hospital Association.** 'https://www.aha.org/statistics/fast-facts-us-hospitals'
+3. **Rural Hospital closures - Sheps Center. (2023, September 1). Sheps Center.** 'https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/'
+4. **Saving Rural Hospitals - Data on rural hospitals. (n.d.).** 'https://ruralhospitals.chqpr.org/Data1.html'
 
 ## Method and medium
 
-
-Text here...
+As for my plan to compile and deliver the narrative, I am opting to utilize Shorthand as my chosen platform. 
