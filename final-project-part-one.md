@@ -32,24 +32,19 @@ Here's the general **structured outline** of my narrative:
 
 Text here...
 
-# The data
-Following are my data sources:
+## The data
+
+To construct a comprehensive narrative, I plan to leverage various publicly accessible datasets. Initially, I will turn to the [World Bank Data](https://www.statista.com/statistics/985183/size-urban-rural-population-us/) to provide a vivid comparison of urban and rural populations in the United States. This foundational understanding will set the stage for exploration.Subsequently, I will utilize data from the [American Hospital Assocation Stats](https://www.aha.org/statistics/fast-facts-us-hospitals) to delineate the proportions of urban and rural hospitals. This insight will serve as a critical backdrop, allowing the audience to grasp the scale and distribution of healthcare facilities in the country. Moving forward, I will draw upon the dataset sourced from the [UNC Sheps Center](https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/). This datasets will provide a detailed analysis of the annual trends in rural hospital closures. This chronological perspective will shed light on the evolving landscape of rural healthcare accessibility.
+
+Furthermore, I will tap into three datasets made available by the [Center for Healthcare Quality and Payment Reform (CHQPR)](https://ruralhospitals.chqpr.org/Data1.html). These datasets will offer comprehensive insights into the insecure state of rural hospitals. Specifically, I will examine their financial status, assess the presence of different payers, and delve into pricing trends. This approach will enable the audience to grasp the intricate economic dynamics that underpin the viability of rural healthcare institutions.
+
+### Data Sources:
 1. **World Bank. (May 25, 2022). Size of the urban and rural population of the United States from 1960 to 2020 (in millions)** [Graph].In Statista. Retrieved September 25, 2023, from https://www.statista.com/statistics/985183/size-urban-rural-population-us/
 2. **Fast Facts on U.S. hospitals, 2023 | AHA. (n.d.). American Hospital Association.** https://www.aha.org/statistics/fast-facts-us-hospitals
 4. **Rural Hospital closures - Sheps Center. (2023, September 1). Sheps Center. ** https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/
 5. **Saving Rural Hospitals - Data on rural hospitals. (n.d.).** https://ruralhospitals.chqpr.org/Data1.html
 
-Text here...
+## Method and medium
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-|S.No| Name | URL | Description |
-|----|------|-----|-------------|
-|    |      |     |             |
-|    |      |     |             |
-|    |      |     |             |
-
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
 Text here...
