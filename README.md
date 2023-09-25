@@ -4,8 +4,6 @@ Welcome to my public portfolio for "Telling Stories with Data" at CMU! This spac
 
 As you explore my projects, you will find engaging and informative data-driven visualizations that highlight my passion for storytelling with data. If you're looking for someone who can transform data into compelling narratives, you've come to the right place. 
 
-Catch a glimpse of my work @[My Portfolio](https://radhikag1604.github.io/Telling_Stories_With_Data/)
-
 # About me
 
 <img src="MyPicture.jpg" width="200"/>
@@ -54,6 +52,8 @@ styles and techniques.
 ### 2. [MediaTrustVisual](https://radhikag1604.github.io/Telling_Stories_With_Data/mediatrust.html)
 
 Click [Here](https://github.com/RadhikaG1604/TellingStories) to access my repository.
+
+Catch a glimpse of my work @[My Portfolio](https://radhikag1604.github.io/Telling_Stories_With_Data/)
 
 ---
 
