@@ -2,7 +2,7 @@
 
 # Rural Hospitals at Risk of Closure
 
-## Outline
+## Project Outline
 I intend to shape my final project narrative around the pressing concern of rural hospitals facing the threat of closure in the United States. The aim is to highlight the gravity of this public policy challenge to my audience, elucidate its far-reaching impact on communities, and ultimately conclude with viable solutions or actions to address the issue.
 
 Healthcare in the United States is a topic of paramount importance. With expenditures surpassing over $1 trillion annually and 39% of this is being directed towards hospitals alone which is way more than any other healthcare sector. Yet, amidst this substantial spending, a deeply concerning trend has emerged - **the closure of rural hospitals**. Despite their smaller scale, rural hospitals  pivotal role in ensuring healthcare accessibility for millions which cannot be overstated. They serve as anchors not for medical care but also for local economies, providing jobs and stability to the communities that rely on them. However, since 2005, over 150 rural hospitals have shuttered their doors and currently around 600 hospitals - 30% of all rural hospitals in the US are at an immmediate risk of closure. With over 20% of the US population residing in rural areas spread across the nation, this poses profound consequences of reduction in access to essential healthcare services to those communities. Moreover, this issue reverberates beyond rural boundaries, impacting urban areas due to the nation's reliance on food supply originating from this area and also their hosting of coal and gas mining stations.The crux of the issue lies in the fundamental dependency of rural hospitals on programs like Medicare and Medicaid, which provide inadequate reimbursement for their services, rendering it unsustainable for them to maintain essential operations and resulting in financial losses. A one-size-fits-all approach, such as a "Global Hospital Budget" or federal proposals, is not a viable solution, as there exists a fundamental disparity in how urban and rural hospitals function. It is imperative to take measures to ensure adequate payments and institute a more equitable payment system that enables rural hospitals to not only survive but thrive in their critical role as healthcare providers for their communities.
@@ -28,9 +28,14 @@ Here's the general **structured outline** of my narrative:
      - Innovative payment system
        
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img src="HospitalProportionsUS.png" width="400"/>    <img src="Trends of Rural Hospital Closures.png" width="400"/>
+
+
+
+<img src="Revenue Source.png" width="400"/>
+
+
 
 ## The data
 
@@ -38,7 +43,7 @@ To construct a comprehensive narrative, I plan to leverage various publicly acce
 
 Furthermore, I will tap into three datasets made available by the [Center for Healthcare Quality and Payment Reform (CHQPR)](https://ruralhospitals.chqpr.org/Data1.html). These datasets will offer comprehensive insights into the insecure state of rural hospitals. Specifically, I will examine their financial status, assess the presence of different payers, and delve into pricing trends. This approach will enable the audience to grasp the intricate economic dynamics that underpin the viability of rural healthcare institutions.
 
-### Data Sources:
+#### Sources:
 1. **World Bank. (May 25, 2022). Size of the urban and rural population of the United States from 1960 to 2020 (in millions)** [Graph].In Statista. Retrieved September 25, 2023, from https://www.statista.com/statistics/985183/size-urban-rural-population-us/
 2. **Fast Facts on U.S. Hospitals, 2023 AHA.(.n.d.). American Hospital Association.** 'https://www.aha.org/statistics/fast-facts-us-hospitals'
 3. **Rural Hospital closures - Sheps Center. (2023, September 1). Sheps Center.** 'https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/'
@@ -46,4 +51,6 @@ Furthermore, I will tap into three datasets made available by the [Center for He
 
 ## Method and medium
 
-As for my plan to compile and deliver the narrative, I am opting to utilize Shorthand as my chosen platform. 
+As for my plan to compile and deliver the narrative, I am opting to utilize Shorthand as my chosen platform. This is due to its strengths in creating multimedia-rich, engaging stories with an intuitive interface. Shorthand's ability to seamlessly integrate images, videos, and interactive elements ensures a compelling user experience.In conjunction, I will employ Flourish and Tableau for constructing charts and graphs using the data. These powerful data visualization tools offer a wide range of customization options, interactivity, and data integration capabilities. By combining Shorthand for storytelling and Flourish/Tableau for data visualization, I aim to create a comprehensive presentation that effectively conveys both the narrative and the supporting data in an impactful manner.
+
+
