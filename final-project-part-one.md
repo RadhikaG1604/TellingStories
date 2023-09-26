@@ -41,7 +41,7 @@ Here's the general **structured outline** of my narrative:
 
 <img src="Revenue Sources.png" width="700"/>
 
-## The data
+## The Data
 
 To construct a comprehensive narrative, I plan to leverage various publicly accessible datasets. Initially, I will turn to the [World Bank Data](https://www.statista.com/statistics/985183/size-urban-rural-population-us/) to provide a vivid comparison of urban and rural populations in the United States. This foundational understanding will set the stage for exploration.Subsequently, I will utilize data from the [American Hospital Assocation Stats](https://www.aha.org/statistics/fast-facts-us-hospitals) to delineate the proportions of urban and rural hospitals. This insight will serve as a critical backdrop, allowing the audience to grasp the scale and distribution of healthcare facilities in the country. Moving forward, I will draw upon the dataset sourced from the [UNC Sheps Center](https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/). This datasets will provide a detailed analysis of the annual trends in rural hospital closures. This chronological perspective will shed light on the evolving landscape of rural healthcare accessibility.
 
