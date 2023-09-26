@@ -29,13 +29,17 @@ Here's the general **structured outline** of my narrative:
        
 ## Initial sketches
 
-<img src="HospitalProportionsUS.png" width="400"/>    <img src="Trends of Rural Hospital Closures.png" width="400"/>
+- The visual indicates that the proportion of urban hospitals in the US is twice that of rural hospitals. Approximately 39% of the population in the United States resides in rural communities, where healthcare access depends on these hospitals, with half of them facing the imminent risk of closure.
 
+<img src="HospitalProportionsUS.png" width="400"/>   
 
+- From the trends in closures, it is evident that there has been a consistent increase in hospital closures. Initially, at the onset of the pandemic, there was a temporary decline due to increased funding and an influx of patients. However, these factors were not substantial enough to ensure the continued functioning of the hospitals.
 
-<img src="Revenue Source.png" width="400"/>
+<img src="Trends of Rural Hospital Closures.png" width="700"/>
 
+- The primary factor contributing to the financial losses experienced by these rural hospitals is the proportion of payments they receive from private payers in exchange for the services rendered to patients. Hence one-policy-fits it all is not a suitable payment structure for running rural hospitals.
 
+<img src="Revenue Source.png" width="700"/>
 
 ## The data
 
