@@ -39,7 +39,7 @@ Here's the general **structured outline** of my narrative:
 
 - The primary factor contributing to the financial losses experienced by these rural hospitals is the proportion of payments they receive from private payers in exchange for the services rendered to patients. Hence one-policy-fits it all is not a suitable payment structure for running rural hospitals.
 
-<img src="Revenue Source.png" width="700"/>
+<img src="Revenue Sources.png" width="700"/>
 
 ## The data
 
