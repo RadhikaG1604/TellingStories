@@ -2,11 +2,12 @@
 
 # Rural Hospitals at Risk of Closure
 
-## Project Outline
+## Project Overview
 I intend to shape my final project narrative around the pressing concern of rural hospitals facing the threat of closure in the United States. The aim is to highlight the gravity of this public policy challenge to my audience, elucidate its far-reaching impact on communities, and ultimately conclude with viable solutions or actions to address the issue.
 
 Healthcare in the United States is a topic of paramount importance. With expenditures surpassing over $1 trillion annually and 39% of this is being directed towards hospitals alone which is way more than any other healthcare sector. Yet, amidst this substantial spending, a deeply concerning trend has emerged - **the closure of rural hospitals**. Despite their smaller scale, rural hospitals  pivotal role in ensuring healthcare accessibility for millions which cannot be overstated. They serve as anchors not for medical care but also for local economies, providing jobs and stability to the communities that rely on them. However, since 2005, over 150 rural hospitals have shuttered their doors and currently around 600 hospitals - 30% of all rural hospitals in the US are at an immmediate risk of closure. With over 20% of the US population residing in rural areas spread across the nation, this poses profound consequences of reduction in access to essential healthcare services to those communities. Moreover, this issue reverberates beyond rural boundaries, impacting urban areas due to the nation's reliance on food supply originating from this area and also their hosting of coal and gas mining stations.The crux of the issue lies in the fundamental dependency of rural hospitals on programs like Medicare and Medicaid, which provide inadequate reimbursement for their services, rendering it unsustainable for them to maintain essential operations and resulting in financial losses. A one-size-fits-all approach, such as a "Global Hospital Budget" or federal proposals, is not a viable solution, as there exists a fundamental disparity in how urban and rural hospitals function. It is imperative to take measures to ensure adequate payments and institute a more equitable payment system that enables rural hospitals to not only survive but thrive in their critical role as healthcare providers for their communities.
 
+## Story Outline
 Here's the general **structured outline** of my narrative: 
 1. **General Hospital Structure in the United States**
     - Large Urban Hospitals, Small and Rural Hospitals
