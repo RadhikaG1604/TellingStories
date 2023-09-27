@@ -36,11 +36,11 @@ Here's the general **structured outline** of my narrative:
 
 - From the trends in closures, it is evident that there has been a consistent increase in hospital closures. Initially, at the onset of the pandemic, there was a temporary decline due to increased funding and an influx of patients. However, these factors were not substantial enough to ensure the continued functioning of the hospitals.
 
-<img src="Trends of Rural Hospital Closures.png" width="700"/>
+<img src="Trends of Rural Hospital Closures.png" width="500"/>
 
 - The primary factor contributing to the financial losses experienced by these rural hospitals is the proportion of payments they receive from private payers in exchange for the services rendered to patients. Hence one-policy-fits it all is not a suitable payment structure for running rural hospitals.
 
-<img src="Revenue Sources.png" width="700"/>
+<img src="Revenue Sources.png" width="500"/>
 
 ## The Data
 
