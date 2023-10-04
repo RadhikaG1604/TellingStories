@@ -4,6 +4,8 @@
 
 In the process of wireframing my project, I deliberately opted for the 'Shorthand' tool due to its ability to create a compelling visual representation tailored to my target audience. Building upon the foundation laid in Part I and incorporating valuable feedback, I enriched the outline with intricate details, seamlessly integrating key callout statistics to shape a compelling narrative. I meticulously planned data visualizations for each section, reinforcing the overarching message I aimed to convey. To ensure my audience grasps the authentic essence of my final presentation, I chose to initially develop visualizations using Tableau and Flourish. This not only refined the visualizations but also brought greater clarity to the data story I sought to tell.
 
+Please find my story board [here](https://carnegiemellon.shorthandstories.com/rural-hospitals-at-risk-of-closure/index.html)
+
 # User research 
 
 ## Target audience
