@@ -26,18 +26,24 @@ In terms of the interview structure, it was organized as follows:
 **Question 2: Storyline** Did the storyline flow smoothly throughout the presentation?
 **Question 3: Clarity and Confusion** Was there anything that confused you?
 **Question 4: Informative Sections** Which section of the presentation do you find the most informative?
-**Question 5: Use of Color/Aesthetics** How do you feel about the use of color? Does it enhance or distract from the storytelling? Do you find the visualizations clear and easy to understand along with the website layout?
+**Question 5: Use of Color/Aesthetics** How do you feel about the use of color? Does it enhance or distract from the storytelling? 
+**Question 6: Visualization Clarity and Website Layout**Do you find the visualizations clear and easy to understand along with the website layout?
 **Question 6: Areas for Improvement** Do you have any additional feedback for improvement?
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+Below are the findings from each of my interviewees:
 
+- Interviewee 1 - 40 years male working in the Health Insurance sector
+- Interviewee 2 - 25 years female having little/no background about US Healthcare structure
+- Interviewee 3 - 25 years female student having knowledge and interest on US Health Policy
+
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
 | Questions                       | Interviewee 1                       | Interviewee 2                    | Interviewee 3                     |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
 | 1. What does this presentation  |  Highlights risks faced by rural    |  Talks about issue of hospitals  | Points out an underlying problem  |
 |    seem to be about at first    |  hospitals                          |  shutting down                   | that rural hospitals are facing   |
 |    glance? rural hospitals      |                                     |                                  |                                   |
-|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|             | 2. Does the story line          | Overall structure and coherence is  | Appreciated the current          | Recommends refining the focus     |
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|            | 2. Does the story line          | Overall structure and coherence is  | Appreciated the current          | Recommends refining the focus     |
 |   smoothly run throughout/ How  | present. However, suggested that    | structure, which begins with an  | of the presentation.              |
 |   is the logical coherence      | the story can begin with an impact  | overview, demographics, addresses| Instead of oscillating            |
 |   in the story                  | such as a personal story of someone | the issue, and concludes with    | between urban and rural,          |
@@ -49,7 +55,7 @@ In terms of the interview structure, it was organized as follows:
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
 |  3.Which section of the         | Found the "Key issue" section       | Also found the "Key issue"       |  The "Causes" section. Expressed  | 
 |  presentation do you find       | most informative.                   | section the most informative     |  surprise at learning that private|        
-|   the most informative?         | Specifically, appreciated           |                                  |  nsurers play a significant role  |             |                                 | the insights into trends in closure |                                  |  in the issue, and the depth of  |
+|   the most informative?         | Specifically, appreciated           |                                  |  nsurers play a significant role  |            |                                 | the insights into trends in closure |                                  |  in the issue, and the depth of  |
 |                                 | and the state-wise spread of the    |                                  |  the issue provided               | 
 |                                 | issue.                              |                                  |                                   |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
@@ -66,15 +72,25 @@ In terms of the interview structure, it was organized as follows:
 |                                 | Impact section - Try to elaborate   |                                  |                                   |
 |                                 | and stick to single context         |                                  |                                   |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
-| 5. How do you feel about the    |
-|   use of                        | 
-|   color? Does it enhance the                        |
-|   story telling ?                               |
-|                                 |
+| 5. How do you feel about the    | Suggested that a different color    | Appreciated the consistency      | Suggested highlighting only       |         
+|   use of  color? Does it        | other than green can be used as it  | in color palette. Suggested      | rural hospital metrics and leave  |  
+|   enhance the story telling ?   | is generally associated with        | highlighting or pointing out     | everything else in grey in all    |    
+|                                 | positive findings. Otherwise        | key trend points in the graphs   | graphs except for the chloropeth  |     
+|                                 | felt that the color palette was     |                                  | map. This would enhance the focus |
+|                                 | neat and went along with website    |                                  | on rural hospitals.               |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
-| 
-|
+| 6. Do you find the              |  Last visual on the payers and      | Self explanatory. Commented that | Easy and simpler graphs.          |
+|     visualizations clear        |  hospital types can be grouped      | the storyline is clear           | Margin Trends graph needs little  |
+|     and easy to understand      |  vice- versa to make it easily      | from just scrolling through the  | attention to grasp the numbers.   |
+|     along with the website      |  comprehendable. Consistent         | visualization titles.            | Suggested numbers can be included |
+|     layout?                     |  sizing of text in visuals.         |                                  | in plots to make it readable      |
+|                                 |                                     |                                  | along with the other elements     |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+| 7. Do you have any overall      | Changes suggested previously can be | Good and clear story overall.    |                                   |           
+|    feedback for improvement ?   | made                                | Suggested changes to visuals and |
+|                                 |                                     | text can be made.                |
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+
 
 # Identified changes for Part III
 
