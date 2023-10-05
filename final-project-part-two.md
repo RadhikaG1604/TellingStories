@@ -41,8 +41,8 @@ Below are the findings from each of my interviewees:
 | Questions                       | Interviewee 1                       | Interviewee 2                    | Interviewee 3                     |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
 | 1. What does this presentation  |  Highlights risks faced by rural    |  Talks about issue of hospitals  | Points out an underlying problem  |
-|    seem to be about at first    |  hospitals                          |  shutting down                   | that rural hospitals are facing   |
-|    glance? rural hospitals      |                                     |                                  |                                   |
+| seem to be about at the first   |  hospitals                          |  shutting down                   | that rural hospitals are facing.   | 
+| glance ?                        |                                     |                                  |                                   |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|            | 2. Does the story line          | Overall structure and coherence is  | Appreciated the current          | Recommends refining the focus     |
 |   smoothly run throughout/ How  | present. However, suggested that    | structure, which begins with an  | of the presentation.              |
 |   is the logical coherence      | the story can begin with an impact  | overview, demographics, addresses| Instead of oscillating            |
