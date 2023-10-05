@@ -4,7 +4,7 @@
 
 In the process of wireframing my project, I deliberately opted for the 'Shorthand' tool due to its ability to create a compelling visual representation tailored to my target audience. Building upon the foundation laid in Part I and incorporating valuable feedback, I enriched the outline with intricate details, seamlessly integrating key callout statistics to shape a compelling narrative. I meticulously planned data visualizations for each section, reinforcing the overarching message I aimed to convey. To ensure my audience grasps the authentic essence of my final presentation, I chose to initially develop visualizations using Tableau and Flourish. This not only refined the visualizations but also brought greater clarity to the data story I sought to tell.
 
-Please find my story board [here](https://carnegiemellon.shorthandstories.com/rural-hospitals-at-risk-of-closure/index.html)
+Please find my story board [Rural Hospitals Facing Closure Risk](https://carnegiemellon.shorthandstories.com/rural-hospitals-at-risk-of-closure/index.html) here!
 
 # User research 
 
@@ -26,42 +26,79 @@ In terms of the interview structure, it was organized as follows:
 **Question 2: Storyline** Did the storyline flow smoothly throughout the presentation?
 **Question 3: Clarity and Confusion** Was there anything that confused you?
 **Question 4: Informative Sections** Which section of the presentation do you find the most informative?
-**Question 5: Insights and Knowledge** Do you feel like you gained new insights or knowledge from this website?
-**Question 6: Use of Color/Aesthetics** How do you feel about the use of color? Does it enhance or distract from the storytelling?
-**Question 7: Visualization Clarity** Do you find the visualizations clear and easy to understand?
-**Question 8: Logical Coherence** Were you able to connect different sections through the visualizations?
-**Question 9: Website Layout/Structure** What do you think of the website's layout and overall structure?
-**Question 10: Areas for Improvement** Do you have any additional feedback for improvement?
+**Question 5: Use of Color/Aesthetics** How do you feel about the use of color? Does it enhance or distract from the storytelling? Do you find the visualizations clear and easy to understand along with the website layout?
+**Question 6: Areas for Improvement** Do you have any additional feedback for improvement?
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| Questions                       | Interviewee 1                       | Interviewee 2                    | Interviewee 3                     |
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+| 1. What does this presentation  |  Highlights risks faced by rural    |  Talks about issue of hospitals  | Points out an underlying problem  |
+|    seem to be about at first    |  hospitals                          |  shutting down                   | that rural hospitals are facing   |
+|    glance? rural hospitals      |                                     |                                  |                                   |
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|             | 2. Does the story line          | Overall structure and coherence is  | Appreciated the current          | Recommends refining the focus     |
+|   smoothly run throughout/ How  | present. However, suggested that    | structure, which begins with an  | of the presentation.              |
+|   is the logical coherence      | the story can begin with an impact  | overview, demographics, addresses| Instead of oscillating            |
+|   in the story                  | such as a personal story of someone | the issue, and concludes with    | between urban and rural,          |
+|                                 | affected by the issue, before       | its impact.                      | suggested to concentrate on one   |
+|                                 | delving into the key subject matter |                                  | aspect. For instance, begin with  |
+|                                 |                                     |                                  | a  clear urban-rural comparison   |
+|                                 |                                     |                                  | and then delve into the issues    | 
+|                                 |                                     |                                  | and causes specific to rural areas|
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+|  3.Which section of the         | Found the "Key issue" section       | Also found the "Key issue"       |  The "Causes" section. Expressed  | 
+|  presentation do you find       | most informative.                   | section the most informative     |  surprise at learning that private|        
+|   the most informative?         | Specifically, appreciated           |                                  |  nsurers play a significant role  |             |                                 | the insights into trends in closure |                                  |  in the issue, and the depth of  |
+|                                 | and the state-wise spread of the    |                                  |  the issue provided               | 
+|                                 | issue.                              |                                  |                                   |
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+| 4. Was there anything confusing/| The bar graph comparing urban and   |  The story is very clear.        | Re-iterated the shift in focus    |           
+|   distracting ?                 | rural population was undermining the|  Personally felt that the scroll | from rural to urban hospitals     |            
+|                                 | issue. Can be represented in some   |  mode which zooms in and zooms   | and agin back to rural            |           
+|                                 | other form. Line chart does not show|  out  is a little distracting    |                                   |
+|                                 | an increase - Can be highlighted.   |  - so can be reduced             |                                   |
+|                                 | The second most populous state -    |                                  |                                   |
+|                                 | Takes time to think - Can be called |                                  |                                   |
+|                                 | out. Suggested that the term        |                                  |                                   |
+|                                 | marginal can be replaced with       |                                  |                                   |
+|                                 | simpler - non technical             |                                  |                                   |
+|                                 | Impact section - Try to elaborate   |                                  |                                   |
+|                                 | and stick to single context         |                                  |                                   |
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+| 5. How do you feel about the    |
+|   use of                        | 
+|   color? Does it enhance the                        |
+|   story telling ?                               |
+|                                 |
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+| 
+|
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Based on the consolidated feedback, below are the changes I am planning to implement in Part III to creative a more effective storyboard
 
+|------------------------------------------|---------------------------------------------------------------------------------|
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
+| Start with an Impactful Story:           | Begin with a compelling story illustrating the real-life impact of the issue.   |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Maintain Consistent Focus:               | Rather than shifting between urban and rural, concentrate on rural aspect alone.| 
+|                                          | Starting with a clear urban-rural comparison, then delve into the issues and    |                              |                                          | causes specific to rural areas. - Planning to do this by keeping the rural facts|
+|                                          | alone highlighted and rest in grey                                              |
+|------------------------------------------|---------------------------------------------------------------------------------|
+|Better visual representation              | - Change first graph to pie chart to better represent proportion                |
+|                                          | - Change the colors to something else than green as it associates with positive |
+|                                          |   facts                                                                         |
+|                                          | - Use consistent fonts and spacing in the visual                                |
+|                                          | - Use simpler terms for understanding in the visuals than technical terms       |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| In-Depth Exploration of Causes:          | Provide a comprehensive examination of the causes, paying special               |
+|                                          | attention to the role of private insurers, as this was an eye-opener for the    |
+|                                          | causes section                                                                  |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Condense the overview                    | - Looks dense - Can even be split to multiple parts                             |
+| Clear action items                       | - Make more actionable list - State it in actionable form                       |                              |                                          |         Example: Save Rural Hospital Act >> Support Save Rural Hospital Act     |
+|------------------------------------------|---------------------------------------------------------------------------------|
