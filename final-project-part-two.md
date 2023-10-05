@@ -37,11 +37,11 @@ Below are the findings from each of my interviewees:
 - Interviewee 2 - 25 years female having little/no background about US Healthcare structure
 - Interviewee 3 - 25 years female student having knowledge and interest on US Health Policy
 
-|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+
 | Questions                       | Interviewee 1                       | Interviewee 2                    | Interviewee 3                     |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
 | 1. What does this presentation  |  Highlights risks faced by rural    |  Talks about issue of hospitals  | Points out an underlying problem  |
-| seem to be about at the first   |  hospitals                          |  shutting down                   | that rural hospitals are facing.   | 
+| seem to be about at the first   |  hospitals                          |  shutting down                   | that rural hospitals are facing.  | 
 | glance ?                        |                                     |                                  |                                   |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|            | 2. Does the story line          | Overall structure and coherence is  | Appreciated the current          | Recommends refining the focus     |
 |   smoothly run throughout/ How  | present. However, suggested that    | structure, which begins with an  | of the presentation.              |
