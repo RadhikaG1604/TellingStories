@@ -63,17 +63,11 @@ Based on the consolidated feedback, below are the changes I am planning to imple
 |------------------------------------------|--------------------------------------------------------|
 |  Start with an Impactful Story | Begin with a compelling story illustrating the real-life impact of the issue | 
 |-----|-----|
-| Maintaining Focus | - Rather than shifting between urban and rural, concentrate on rural aspect alone.
-                      - Starting with a clear urban-rural comparison, then delve into the issues and causes specific to rural areas.
-                      - Planning to do this by keeping the rural facts alone highlighted and rest in grey |
-|-----|-----|
-| Better visual representation | - Change first graph to pie chart to better represent proportion
-                                 - Change the colors to something else than green as it associates with positive facts
-                                 - Use consistent fonts and spacing in the visual
-                                 - Use simpler terms for understanding in the visuals than technical terms - Eg: Median Margin |
-|-----|-----|
-| Better Story Persuasion | - Provide a comprehensive examination of the causes, paying special attemtion to the role of private insurers. Include pointers/highlight to grab users attention on the key cause. Include text if necessary.
-                            - Overview section is dense. Can be split into parts/ try to reduce text |           
-|-----|-----|
+| Maintaining Focus | - Rather than shifting between urban and rural, concentrate on rural aspect alone. - Starting with a clear urban-rural comparison, then delve into the issues and causes specific to rural areas. - Planning to do this by keeping the rural facts alone highlighted and rest in grey |
+|-----|-----|                 
+| Better visual representation | - Change first graph to pie chart to better represent proportion. - Change the colors to something else than green as it associates with positive facts. - Use consistent fonts and spacing in the visual. - Use simpler terms for understanding in the visuals than technical terms - Eg: Median Margin |
+|-----|-----|                                 
+| Better Story Persuasion | - Provide a comprehensive examination of the causes, paying special attemtion to the role of private insurers. Include pointers/highlight to grab users attention on the key cause. Include text if necessary. - Overview section is dense. Can be split into parts/ try to reduce text |                                 
+|-----|-----|                            
 | More verb oriented action items | - Actionable list - Eg: Instead of Save Rural Hospital Act >> Mention Support Save Rural Hospital Act and How ? |        |-----|-----| 
                                 
