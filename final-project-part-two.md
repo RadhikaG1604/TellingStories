@@ -40,17 +40,11 @@ Below are the findings from each of my interviewees:
 
 | Questions                       | Interviewee 1                       | Interviewee 2                    | Interviewee 3                     |
 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
-|  1. What does this presentation seem to be about at the first glance ? | Highlights risks faced by rural hospitals | Points out an underlying problem with rural hospitals | Talks about issue of rural hospitals shutting down|                                                                                                              
-|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|            | 2. Does the story line          | Overall structure and coherence is  | Appreciated the current          | Recommends refining the focus     |
-|   smoothly run throughout/ How  | present. However, suggested that    | structure, which begins with an  | of the presentation.              |
-|   is the logical coherence      | the story can begin with an impact  | overview, demographics, addresses| Instead of oscillating            |
-|   in the story                  | such as a personal story of someone | the issue, and concludes with    | between urban and rural,          |
-|                                 | affected by the issue, before       | its impact.                      | suggested to concentrate on one   |
-|                                 | delving into the key subject matter |                                  | aspect. For instance, begin with  |
-|                                 |                                     |                                  | a  clear urban-rural comparison   |
-|                                 |                                     |                                  | and then delve into the issues    | 
-|                                 |                                     |                                  | and causes specific to rural areas|
-|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+|  1. What does this presentation seem to be about at the first glance ? | Highlights risks faced by rural hospitals | Points out an underlying problem with rural hospitals | Talks about issue of rural hospitals shutting down |                                                                                 |---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|            | 2. Does the story line smoothly run throughout/ How is the logical coherence in the story | Overall structure and coherence is present. However, suggested that the story can begin with an impact such as a personal story of someone affected by the issue, before delving into the key subject matter |   Appreciated the current structure, which begins with an overview, demographics, addresses the issue, and concludes with its impact. | Recommends refining the focus of the presentation. Instead of oscillating between urban and rural, suggested to concentrate on one aspect. For instance, begin with a  clear urban-rural comparison  and then delve into the issues  and causes specific to rural areas |
+|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|                     
+
+
+
 |  3.Which section of the         | Found the "Key issue" section       | Also found the "Key issue"       |  The "Causes" section. Expressed  | 
 |  presentation do you find       | most informative.                   | section the most informative     |  surprise at learning that private|        
 |   the most informative?         | Specifically, appreciated           |                                  |  nsurers play a significant role  |            |                                 | the insights into trends in closure |                                  |  in the issue, and the depth of  |
