@@ -52,17 +52,16 @@ Below are the findings from each of my interviewees:
 |-----|-----|-----|
 | 6. Do you find the visualizations clear  and easy to understand along with the website layout? | Last visual on the payers and hospital types can be grouped based on hospitals to make it easily comprehendable. Need to ensure consistent sizing of text in visuals. | Felt that the visuals were self explanatory. However, commented that Margin Trends graph needs little attention to grasp the numbers. Mentioned that just when scrolling through the website, based on the title of the graphs, able to grasp the storyline. | Easy and simpler graphs. Suggested numbers can be included in plots to make it readable along with the other elements |
 |-----|-----|-----|
-| 7. Do you have any overall feedback for improvement ? | Mentioned that overall layout was good, however mentioned that the above suggested changes have to be made | Good and clear story overall, layout can be modified a bit to ensure distracting elements | Interesting insights. Suggested changes to visuals and 
-text have to be made.| 
+| 7. Do you have any overall feedback for improvement ? | Mentioned that overall layout was good, however mentioned that the above suggested changes have to be made | Good and clear story overall, layout can be modified a bit to ensure distracting elements| Interesting insights. Suggested changes to visuals & text have to be made| 
 |-----|-----|-----|
 
 # Identified changes for Part III
 
 Based on the consolidated feedback, below are the changes I am planning to implement in Part III to creative a more effective storyboard
 
-|-----|-----|
-| Research synthesis | Anticipated changes for Part III 
-|-----|-----|
+
+| Research synthesis | Anticipated changes for Part III |
+|--------------------|----------------------------------|
 | Start with an Impactful Story | Begin with a compelling story illustrating the real-life impact of the issue |
 |-----|-----|
 | Maintaining Focus | - Rather than shifting between urban and rural, concentrate on rural aspect alone.
