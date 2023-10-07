@@ -69,5 +69,4 @@ Based on the consolidated feedback, below are the changes I am planning to imple
 |-----|-----|                                 
 | Better Story Persuasion | - Provide a comprehensive examination of the causes, paying special attemtion to the role of private insurers. Include pointers/highlight to grab users attention on the key cause. Include text if necessary. - Overview section is dense. Can be split into parts/ try to reduce text |                                 
 |-----|-----|                            
-| More verb oriented action items | - Actionable list - Eg: Instead of Save Rural Hospital Act >> Mention Support Save Rural Hospital Act and How ? |        |-----|-----| 
-                                
+| More verb oriented action items | - Actionable list - Eg: Instead of Save Rural Hospital Act >> Mention Support Save Rural Hospital Act and How ? |        |-----|-----|              
