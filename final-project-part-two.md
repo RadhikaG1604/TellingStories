@@ -45,62 +45,38 @@ Below are the findings from each of my interviewees:
 | 2. Does the story line smoothly run throughout/ How is the logical coherence in the story | Overall structure and coherence is present. However, suggested that the story can begin with an impact such as a personal story of someone affected by the issue, before delving into the key subject matter |   Appreciated the current structure, which begins with an overview, demographics, addresses the issue, and concludes with its impact. | Recommends refining the focus of the presentation. Instead of oscillating between urban and rural, suggested to concentrate on one aspect. For instance, begin with a  clear urban-rural comparison  and then delve into the issues  and causes specific to rural areas |
 |-----|-----|-----|
 |  3.Which section of the presentation do you find the most informative? | Found the "Key issue" section most informative. Specifically, appreciated        insights into trends in closure. | Also found the "Key issue" section the most informative in the issue, and the state-wise spread of the issue.| Expressed suprise at the depth of the causes section and at learning that private insurers play a significant role in the issue provided. |
-| 4. Was there anything confusing/| The bar graph comparing urban and   |  The story is very clear.        | Re-iterated the shift in focus    |           
-|   distracting ?                 | rural population was undermining the|  Personally felt that the scroll | from rural to urban hospitals     |            
-|                                 | issue. Can be represented in some   |  mode which zooms in and zooms   | and agin back to rural            |           
-|                                 | other form. Line chart does not show|  out  is a little distracting    |                                   |
-|                                 | an increase - Can be highlighted.   |  - so can be reduced             |                                   |
-|                                 | The second most populous state -    |                                  |                                   |
-|                                 | Takes time to think - Can be called |                                  |                                   |
-|                                 | out. Suggested that the term        |                                  |                                   |
-|                                 | marginal can be replaced with       |                                  |                                   |
-|                                 | simpler - non technical             |                                  |                                   |
-|                                 | Impact section - Try to elaborate   |                                  |                                   |
-|                                 | and stick to single context         |                                  |                                   |
-|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
-| 5. How do you feel about the    | Suggested that a different color    | Appreciated the consistency      | Suggested highlighting only       |         
-|   use of  color? Does it        | other than green can be used as it  | in color palette. Suggested      | rural hospital metrics and leave  |  
-|   enhance the story telling ?   | is generally associated with        | highlighting or pointing out     | everything else in grey in all    |    
-|                                 | positive findings. Otherwise        | key trend points in the graphs   | graphs except for the chloropeth  |     
-|                                 | felt that the color palette was     |                                  | map. This would enhance the focus |
-|                                 | neat and went along with website    |                                  | on rural hospitals.               |
-|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
-| 6. Do you find the              |  Last visual on the payers and      | Self explanatory. Commented that | Easy and simpler graphs.          |
-|     visualizations clear        |  hospital types can be grouped      | the storyline is clear           | Margin Trends graph needs little  |
-|     and easy to understand      |  vice- versa to make it easily      | from just scrolling through the  | attention to grasp the numbers.   |
-|     along with the website      |  comprehendable. Consistent         | visualization titles.            | Suggested numbers can be included |
-|     layout?                     |  sizing of text in visuals.         |                                  | in plots to make it readable      |
-|                                 |                                     |                                  | along with the other elements     |
-|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
-| 7. Do you have any overall      | Changes suggested previously can be | Good and clear story overall.    |                                   |           
-|    feedback for improvement ?   | made                                | Suggested changes to visuals and |
-|                                 |                                     | text can be made.                |
-|---------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
-
+|-----|-----|-----|
+| 4. Was there anything confusing/distracting ? | The bar graph comparing urban and rural population was undermining the issue. Can be represented in some other form. Line chart does not show an increase - Can be highlighted. The second most populous state - Takes time to think - Can be called out. Suggested that the term marginal can be replaced with simpler - non technical term may be "Profits". Impact section - Try to elaborate and stick to single context |  The story is very clear. Personally felt that the scroll mode which zooms in and zooms out is a little distracting, so the scroll section can be reduced |  Re-iterated the shift in focus from rural to urban hospitals while comparing, focuses on rural, then again goes back to comparison in causes section. It is better to find a way to concentrate or highlight only rural to remained focused on story line |           
+|-----|-----|-----|
+| 5. How do you feel about the use of  color? Does it enhance the story telling ?  | Suggested that a different color other than green can be used as it is generally associated with highlighting or pointing out positive findings. Otherwise felt that the color palette was neat and went along with website template and pitcures | Appreciated the consistency in color palette throughout for 3 hospital types, especially said the chloreopath was looking professional | Suggested highlighting only rural hospital metrics throughout and leave everything else in grey in all This would enhance the focus on rural hospitals. |         
+|-----|-----|-----|
+| 6. Do you find the visualizations clear  and easy to understand along with the website layout? | Last visual on the payers and hospital types can be grouped based on hospitals to make it easily comprehendable. Need to ensure consistent sizing of text in visuals. | Felt that the visuals were self explanatory. However, commented that Margin Trends graph needs little attention to grasp the numbers. Mentioned that just when scrolling through the website, based on the title of the graphs, able to grasp the storyline. | Easy and simpler graphs. Suggested numbers can be included in plots to make it readable along with the other elements |
+|-----|-----|-----|
+| 7. Do you have any overall feedback for improvement ? | Mentioned that overall layout was good, however mentioned that the above suggested changes have to be made | Good and clear story overall, layout can be modified a bit to ensure distracting elements | Interesting insights. Suggested changes to visuals and 
+text have to be made.| 
+|-----|-----|-----|
 
 # Identified changes for Part III
 
 Based on the consolidated feedback, below are the changes I am planning to implement in Part III to creative a more effective storyboard
 
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Start with an Impactful Story:           | Begin with a compelling story illustrating the real-life impact of the issue.   |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Maintain Consistent Focus:               | Rather than shifting between urban and rural, concentrate on rural aspect alone.| 
-|                                          | Starting with a clear urban-rural comparison, then delve into the issues and    |                              |                                          | causes specific to rural areas. - Planning to do this by keeping the rural facts|
-|                                          | alone highlighted and rest in grey                                              |
-|------------------------------------------|---------------------------------------------------------------------------------|
-|Better visual representation              | - Change first graph to pie chart to better represent proportion                |
-|                                          | - Change the colors to something else than green as it associates with positive |
-|                                          |   facts                                                                         |
-|                                          | - Use consistent fonts and spacing in the visual                                |
-|                                          | - Use simpler terms for understanding in the visuals than technical terms       |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| In-Depth Exploration of Causes:          | Provide a comprehensive examination of the causes, paying special               |
-|                                          | attention to the role of private insurers, as this was an eye-opener for the    |
-|                                          | causes section                                                                  |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Condense the overview                    | - Looks dense - Can even be split to multiple parts                             |
-| Clear action items                       | - Make more actionable list - State it in actionable form                       |                              |                                          |         Example: Save Rural Hospital Act >> Support Save Rural Hospital Act     |
-|------------------------------------------|---------------------------------------------------------------------------------|
+|-----|-----|
+| Research synthesis | Anticipated changes for Part III 
+|-----|-----|
+| Start with an Impactful Story | Begin with a compelling story illustrating the real-life impact of the issue |
+|-----|-----|
+| Maintaining Focus | - Rather than shifting between urban and rural, concentrate on rural aspect alone.
+                      - Starting with a clear urban-rural comparison, then delve into the issues and causes specific to rural areas.
+                      - Planning to do this by keeping the rural facts alone highlighted and rest in grey |
+|-----|-----|                      
+|Better visual representation | - Change first graph to pie chart to better represent proportion
+                                - Change the colors to something else than green as it associates with positive facts
+                                - Use consistent fonts and spacing in the visual
+                                - Use simpler terms for understanding in the visuals than technical terms - Eg: Median Margin |
+|-----|-----|
+| Better Story Persuasion | Provide a comprehensive examination of the causes, paying special attemtion to the role of private insurers. Include pointers/highlight to grab users attention on the key cause. Include text if necessary.
+                            - Overview section is dense. Can be split into parts/ try to reduce text |
+|-----|-----|
+| More verb oriented action items | - Actionable list - Eg: Instead of Save Rural Hospital Act >> Mention Support Save Rural Hospital Act and How ?|
+|-----|-----|                                    
+
