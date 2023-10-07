@@ -59,9 +59,8 @@ Below are the findings from each of my interviewees:
 
 Based on the consolidated feedback, below are the changes I am planning to implement in Part III to creative a more effective storyboard
 
-
-| Research synthesis | Anticipated changes for Part III |
-|--------------------|----------------------------------|
+| Research Synthesis                       | Anticipated changed for Part III                      |                     
+|------------------------------------------|-------------------------------------------------------|
 | Start with an Impactful Story | Begin with a compelling story illustrating the real-life impact of the issue |
 |-----|-----|
 | Maintaining Focus | - Rather than shifting between urban and rural, concentrate on rural aspect alone.
