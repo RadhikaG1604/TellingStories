@@ -63,13 +63,13 @@ Based on the consolidated feedback, below are the changes I am planning to imple
 
 | Research Synthesis                       | Anticipated changed for Part III                       | 
 |------------------------------------------|--------------------------------------------------------|
-|  Start with an Impactful Story | Begin with a compelling story illustrating the real-life impact of the issue, as it has impact on patient lives | 
+|  Start with an Impactful Story | Begin with a compelling story illustrating the real-life impact of the issue, as it has impact on patient lives - Overview section is dense. Can be split into parts/ try to reduce text | 
 |-----|-----|
 | Maintaining Focus | - Rather than shifting between urban and rural, concentrate on rural aspect alone - Starting with a clear urban-rural comparison, then delve into the issues and causes specific to rural areas. - Do this by keeping the rural metrics/facts alone highlighted while the rest are in grey |
 |-----|-----|                 
 | Better visual representation | - Change first graph to pie chart to better represent proportion. - Change the colors to something else than green as it associates with positive facts. - Use consistent fonts and spacing in title in the graphs. - Use simpler terms for understanding in the visuals than technical terms - Eg: Median Margin can be replaced with Profits |
 |-----|-----|                                 
-| Better Story Persuasion | - The median margin graphs need to be altered. Should be grouped by payers instead of hospitals to maintain consistency, paying special attemtion to the role of private insurers. Include pointers/highlight to grab users attention on the key cause. Include text if necessary. - Overview section is dense. Can be split into parts/ try to reduce text |                                 
+| Better Story Persuasion | - The median margin graphs need to be altered. Should be grouped by payers instead of hospitals to maintain consistency, paying special attemtion to the role of private insurers. Include pointers/highlight to grab users attention on the key cause. Include text if necessary. - Update the trends graph to highlight the increase but also emphasize on the reason, why it goes down in 2020  |                                 
 |-----|-----|                            
 | More verb oriented action items |- Actionable list - Eg: Instead of Save Rural Hospital Act >> Mention Support Save Rural Hospital Act and How ?|        
 |-----|-----|              
