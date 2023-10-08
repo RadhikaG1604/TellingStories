@@ -57,17 +57,19 @@ Below are the findings from each of my interviewees:
 
 # Identified changes for Part III
 
-Based on the consolidated feedback, below are the changes I am planning to implement in Part III to creative a more effective storyboard
+The feedback provided was invaluable in pinpointing the subsequent actions. The interviewees brought to light numerous nuances that had escaped my notice during the wireframe drafting process, including ensuring the availability and legibility of all units, refining chart titles, and enhancing the overall narrative flow.
+
+Based on the consolidated feedback, below are the changes I am planning to implement in Part III to creative a more effective storyboard:
 
 | Research Synthesis                       | Anticipated changed for Part III                       | 
 |------------------------------------------|--------------------------------------------------------|
-|  Start with an Impactful Story | Begin with a compelling story illustrating the real-life impact of the issue | 
+|  Start with an Impactful Story | Begin with a compelling story illustrating the real-life impact of the issue, as it has impact on patient lives | 
 |-----|-----|
-| Maintaining Focus | - Rather than shifting between urban and rural, concentrate on rural aspect alone. - Starting with a clear urban-rural comparison, then delve into the issues and causes specific to rural areas. - Planning to do this by keeping the rural facts alone highlighted and rest in grey |
+| Maintaining Focus | - Rather than shifting between urban and rural, concentrate on rural aspect alone - Starting with a clear urban-rural comparison, then delve into the issues and causes specific to rural areas. - Do this by keeping the rural metrics/facts alone highlighted while the rest are in grey |
 |-----|-----|                 
-| Better visual representation | - Change first graph to pie chart to better represent proportion. - Change the colors to something else than green as it associates with positive facts. - Use consistent fonts and spacing in the visual. - Use simpler terms for understanding in the visuals than technical terms - Eg: Median Margin |
+| Better visual representation | - Change first graph to pie chart to better represent proportion. - Change the colors to something else than green as it associates with positive facts. - Use consistent fonts and spacing in title in the graphs. - Use simpler terms for understanding in the visuals than technical terms - Eg: Median Margin can be replaced with Profits |
 |-----|-----|                                 
-| Better Story Persuasion | - Provide a comprehensive examination of the causes, paying special attemtion to the role of private insurers. Include pointers/highlight to grab users attention on the key cause. Include text if necessary. - Overview section is dense. Can be split into parts/ try to reduce text |                                 
+| Better Story Persuasion | - The median margin graphs need to be altered. Should be grouped by payers instead of hospitals to maintain consistency, paying special attemtion to the role of private insurers. Include pointers/highlight to grab users attention on the key cause. Include text if necessary. - Overview section is dense. Can be split into parts/ try to reduce text |                                 
 |-----|-----|                            
 | More verb oriented action items |- Actionable list - Eg: Instead of Save Rural Hospital Act >> Mention Support Save Rural Hospital Act and How ?|        
 |-----|-----|              
