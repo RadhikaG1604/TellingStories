@@ -17,7 +17,7 @@ If you're looking for someone who can transform data into compelling narratives,
 
 ### 1. [About_Me](https://radhikag1604.github.io/Telling_Stories_With_Data/About_Me.html)
 
-### 2. [More_on_the_Course](https://radhikag1604.github.io/Telling_Stories_With_Data/More_on_the_Course.html)
+### 2. [About_Course](https://radhikag1604.github.io/Telling_Stories_With_Data/More_on_the_Course.html)
 - Quick Intro on my course
 - Pre-course reflection - What I hope to learn
 - Post-course reflection - What I actually learnt
