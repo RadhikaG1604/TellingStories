@@ -47,7 +47,7 @@ During this exercise, we aimed to recreate compelling visuals featured in media 
 </script>
 
 
-4. Visualizing State-wise Outbreak - Tableau
+## 4. Visualizing State-wise Outbreak - Tableau
 
 <div class='tableauPlaceholder' id='viz1697316030038' style='position: relative'><noscript><a href='#'><img alt='Statewise Outbreak of COVID-19 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ZZ&#47;ZZDQRGB2X&#47;1_rss.png' style='border: none' />
 </a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> 
