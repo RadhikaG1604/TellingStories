@@ -20,5 +20,5 @@ Scheduled to graduate in May 2024, I am actively seeking opportunities to apply 
 <h3 align="left">Connect with me:</h3>
 <p style="margin-left: 2rem;">
   <span height="30" width="40"></span>
-<a href="https://www.linkedin.com/in/radhika-govindarajan" target="blank"><img align="center" src="https://github.com/RadhikaG1604/Telling_Stories_With_Data/blob/main/Logo_LinkedIn.png" alt="radhikag_1604" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/radhika-govindarajan" target="blank"><img align="center" src="https://github.com/RadhikaG1604/Telling_Stories_With_Data/blob/main/Logo_LinkedIn.png" height="30" width="40" /></a>
 </p>
