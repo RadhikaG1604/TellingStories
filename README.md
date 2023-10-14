@@ -15,14 +15,14 @@ If you're looking for someone who can transform data into compelling narratives,
 
 # **Explore My Portfolio:** 
 
-### 1. About Me
+### 1. [About_Me](https://radhikag1604.github.io/Telling_Stories_With_Data/main/About_Me.html)
 
-### 2. More on the course
+### [More_on_the_Course](https://radhikag1604.github.io/Telling_Stories_With_Data/main/More_on_the_Course.html)
 - Quick Intro on my course
 - Pre-course reflection - What I hope to learn
 - Post-course reflection - What I actually learnt
 
-### 3. In-Class Exercises
+### [In_class_Exercises](https://radhikag1604.github.io/Telling_Stories_With_Data/main/In_class_Exercises.html)
 - Engaging, practical sessions dedicated to enhancing visualizations and representations, delivering a rapid yet substantial learning opportunity.
 
 ### 4. Assignment 1 - [Data_Visualization_1](https://radhikag1604.github.io/Telling_Stories_With_Data/Data_Visualization_1.html)
