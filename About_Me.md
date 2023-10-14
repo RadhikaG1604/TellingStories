@@ -1,8 +1,8 @@
 |[Home](https://radhikag1604.github.io/Telling_Stories_With_Data/)|[About_Me](https://radhikag1604.github.io/Telling_Stories_With_Data/About_Me.html)|[More_on_the_Course](https://radhikag1604.github.io/Telling_Stories_With_Data/More_on_the_Course.html)|[In_class_Exercises](https://radhikag1604.github.io/Telling_Stories_With_Data/In_class_Exercises.html)|[Data_Visualization_1](https://radhikag1604.github.io/Telling_Stories_With_Data/Data_Visualization_1.html)|[Critique by Design](https://radhikag1604.github.io/Telling_Stories_With_Data/critique-by-design.html)|[Final Project Part I](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-one.html)|[Final Project Part II](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-two.html)|[Final Project Part III](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-three.html)|
 
-# Hi ! I am Radhika Govindarajan 🙂👋
-
 # About me
+
+## Hi! I am Radhika Govindarajan 🙂👋
 
 <img src="MyPicture.jpg" width="200"/>
 
@@ -16,3 +16,9 @@ My undergraduate journey in biotechnology ignited my passion for applying scient
 My background encompasses biotechnology, healthcare, data analytics and business analysis offering a diverse and multifaceted approach to tackling healthcare challenges. Collaboration is my forte, and I thrive in environments that promote open communication and creative problem-solving.
 
 Scheduled to graduate in May 2024, I am actively seeking opportunities to apply my skills and knowledge, contributing to meaningful change within the healthcare industry. If you're searching for a passionate innovator dedicated to improving patient outcomes and reimagining healthcare, let's connect. Feel free to reach out to me via email at rgovind2@andrew.cmu.edu !
+
+<h3 align="left">Connect with me:</h3>
+<p style="margin-left: 2rem;">
+  <span height="30" width="40"></span>
+<a href="https://www.linkedin.com/in/radhika-govindarajan" target="blank"><img align="center" src="https://github.com/RadhikaG1604/Telling_Stories_With_Data/blob/main/Logo_LinkedIn.png" alt="radhikag_1604" height="30" width="40" /></a>
+</p>
