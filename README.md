@@ -1,8 +1,45 @@
-# Hi I'm Radhika Govindarajan 🙂👋
+# Welcome to my Portfolio!
 
-Welcome to my public portfolio for "Telling Stories with Data" at CMU! This space is where I showcase my work, and I'm excited to share it with you.
+## Exploring My Journey in Telling Stories with Data
 
-As you explore my projects, you will find engaging and informative data-driven visualizations that highlight my passion for storytelling with data. If you're looking for someone who can transform data into compelling narratives, you've come to the right place. 
+**Greetings 🙂 !**
+
+I am thrilled to welcome you to my public portfolio, a dynamic showcase of my immersive experience in "Telling Stories with Data" course at CMU. Here, 
+I've woven narratives through visualizations, turning raw data into compelling stories.
+
+**Dive into Narratives**
+
+This portfolio contains a curated collection of work done throughout the course, infused with the spirit of my coursework, guided by my professor, inspired and critiqued by peers.
+
+If you're looking for someone who can transform data into compelling narratives, you've come to the right place. 
+
+# **Explore My Portfolio:** 
+
+### 1. About Me
+
+### 2. More on the course
+        - Quick Intro on my course
+        - Pre-course reflection - What I hope to learn
+        - Post-course reflection - What I actually learnt
+
+### 3. In-Class Exercises
+        - Engaging, practical sessions dedicated to enhancing visualizations and representations, delivering a rapid yet substantial learning opportunity.
+
+### 4. Assignment 1
+        - Creating visual representations directly from primary sources. Utilize visualization software like Flourish to reproduce an existing 
+          visualization and devising an original version for a more compelling presentation, applying the techniques acquired.
+
+### 5. Assignment 2
+       - Identifying a visualization for enhancement, critiquing using a structured approach, and redesigning the data representation using the techniques 
+         and tools learnt in class.
+
+### 6. Final Project
+      - Final Project Part 1: Compiling required data, structured a narrative framework for the data story and generated initial conceptual sketches.
+      
+      - Final Project Part 2: Using storyboard tools to develop the narrative by incorporating initial visualizations, user research and generating 
+                              feedback for refinements.
+      
+      - Final Project Part 3: Culminating the final polished narrative by reflecting on the gathered feedback and refining visuals. 
 
 # About me
 
