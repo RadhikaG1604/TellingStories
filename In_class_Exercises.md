@@ -4,8 +4,10 @@
 
 ## 1. King County Cases
 
-In this exercise, I endeavored to delve into Flourish and produce a visualization showcasing the evolution of COVID-19 cases in King County over a specific duration.
+This is my very first data visualization exercise in class. I endeavored to delve into Flourish and produce a visualization showcasing the evolution of COVID-19 cases in King County over a specific duration.
 
-[KingCountyCasesDemo](https://radhikag1604.github.io/Telling_Stories_With_Data/KingCountyCasesDemo.html)
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/14930031"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 ## 2. [MediaTrustVisual](https://radhikag1604.github.io/Telling_Stories_With_Data/mediatrust.html)
