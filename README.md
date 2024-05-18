@@ -1,4 +1,4 @@
-# Welcome to my Portfolio!
+# Welcome to my Data Visualization Portfolio!
 
 ## Exploring My Journey in Telling Stories with Data
 
