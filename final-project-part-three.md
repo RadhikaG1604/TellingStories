@@ -1,7 +1,7 @@
 |[Home](https://radhikag1604.github.io/Telling_Stories_With_Data/)|[About_Me](https://radhikag1604.github.io/Telling_Stories_With_Data/About_Me.html)|[More_on_the_Course](https://radhikag1604.github.io/Telling_Stories_With_Data/More_on_the_Course.html)|[In_class_Exercises](https://radhikag1604.github.io/Telling_Stories_With_Data/In_class_Exercises.html)|[Data_Visualization_1](https://radhikag1604.github.io/Telling_Stories_With_Data/Data_Visualization_1.html)|[Critique by Design](https://radhikag1604.github.io/Telling_Stories_With_Data/critique-by-design.html)|[Final Project Part I](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-one.html)|[Final Project Part II](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-two.html)|[Final Project Part III](https://radhikag1604.github.io/Telling_Stories_With_Data/final-project-part-three.html)|
 
 # The final data story
-You can access my final data story addressing the critical issue of **"Rural Hospitals on the Verge of Closure"** [here]! 
+You can access my final data story addressing the critical issue of **"Rural Hospitals on the Verge of Closure"** [here](https://carnegiemellon.shorthandstories.com/rural-hospitals-at-risk-of-closure/index.html)! 
 
 # Reflections on my Final Project
 
